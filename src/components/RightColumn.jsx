@@ -4,7 +4,7 @@ import WebAnalytics from "./WebAnalytics";
 
 function RightColumn() {
   return (
-    <div className="w-full p-2">
+    <div className="w-full pl-2 mt-2">
       <SalesItem />
       <WebAnalytics />
     </div>
