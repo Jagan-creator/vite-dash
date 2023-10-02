@@ -116,7 +116,7 @@ const data = [
 
 const WebAnalytics = () => {
   return (
-    <Card className="max-w-lg mt-2">
+    <Card className="w-full mt-2">
       <Title>Website Analytics</Title>
       <Flex className="mt-4">
         <Text>
