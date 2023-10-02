@@ -12,7 +12,7 @@ import {
 
 const Sidebar = () => {
   return (
-    <div className="bg-slate-900 flex-none w-14 sm:w-20 h-screen">
+    <div className="bg-slate-900 flex-none w-14 sm:w-20 h-1000">
       <div className="h-20 items-center flex">
         <HomeIcon
           width={40}
